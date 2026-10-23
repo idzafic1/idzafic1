@@ -1,6 +1,6 @@
 # Ismail Džafić
 
-Final-year Computer Science student at the Faculty of Electrical Engineering, University of Sarajevo, focusing on Quality Assurance (QA), automated API & load testing, and security-minded software engineering. Currently on an Erasmus+ academic exchange in Poland.
+BSc graduate in Computer Science (Faculty of Electrical Engineering, University of Sarajevo) and first-year master's student, focusing on Quality Assurance (QA), automated API and load testing, and security-minded software engineering. Currently on an Erasmus+ exchange in Poland.
 
 ### Selected Work
 
